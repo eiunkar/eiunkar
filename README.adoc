@@ -1,0 +1,267 @@
+= Understand Strategy
+:toc:
+:sectnums:
+
+
+Strategy is important at every level in every organization. That's why you and your team need to understand what strategy is, how to create it, and how to implement it.
+
+
+== What is strategy?
+To be successful, your organization needs to set a clear, sound strategy. Strategy is how your organization chooses to deliver its products or services to meet your customers’ needs. It’s the unique way that your organization carries out its purpose and separates itself from the competition.
+
+A good strategy consists of two major elements:
+
+The value proposition—what makes your organization’s products or services distinctive so customers want to do business with you instead of your rivals
+
+The value chain—the combination of organizational activities that makes your unique value proposition possible *
+
+[sidebar]
+.EXAMPLE
+--
+A large financial services company sees an opportunity to offer financial advice and products to middle-income individuals—potential clients who can’t afford the fees typically charged for asset management and financial planning. It creates a strategic plan around serving this group of customers. The company forms a new unit that offers a combination of activities, including free web-based planning tools to help people budget and save, access to low-cost phone-based financial advisors, and a streamlined portfolio of inexpensive investment products.
+--
+
+[sidebar]
+.Dynamic Strategy
+--
+video::videos/Lesson1/video1.mp4[title=Video1,height=200]
+[%collapsible]
+.Bio
+====
+Cynthia Montgomery — Professor, Harvard Business School
+
+Because the world changes, an organization needs to have a strategy that’s alive and responsive to the realities of the marketplace.
+====
+[%collapsible]
+.About
+====
+Cynthia A. Montgomery is the Timken Professor of Business Administration and immediate past Chair of the Strategy Unit at Harvard Business School, where she has been on the faculty for 20 years. Cynthia’s research centers on strategy and corporate governance. Of particular interest are issues relating to boards of directors, the creation of value across multiple lines of business, and the role leaders play in developing and implementing strategy.
+
+Her work has appeared in top-tier managerial and academic outlets, including Harvard Business Review, the Financial Times, and American Economic Review. She is the coauthor of “Corporate Strategy: Resources and the Scope of the Firm” with David J. Collis and the editor of “Resource-Based and Evolutionary Theories of the Firm.”
+
+Prior to her time at Harvard, Cynthia taught at the Graduate School of Business at the University of Michigan and at Northwestern’s Kellogg School of Management, where she was recognized with its Outstanding Teacher of the Year award. At Harvard, she received the Greenhill Award for her contributions to the School’s pedagogical mission. Her dissertation work on corporate-level strategy won the General Electric Award for Outstanding Research in Strategic Management.
+====
+[%collapsible]
+.Transcript
+====
+If you pick up almost any book on strategy today, what you will find is that there is a view of strategy that talks about what I like to call the “Holy Grail” of strategy—that the goal is a long-run sustainable competitive advantage. And that that's what every business should be seeking. And if you can find it, go for it. It's a great idea. The idea is that you start at the beginning and you come up with a competitive plan and you run with it. And as time goes on, it continues to add value and it continues to create a competitive advantage.
+
+But in practice, it's actually very unusual that that would happen, because it is essentially saying that the world has stayed the same and that you stayed the same, the competitors have stayed the same, the customers and their needs have stayed the same.
+
+I think we need a more open view of strategy, a view that acknowledges that the world changes for good reasons [or] for less happy reasons—if it's something positive that's happened inside the company, an innovation; [or] if it's a competitive threat that's developed outside, if it's something that's happened or changed with customers' needs.
+
+We need to have a strategy that's alive, that's responsive to the realities of what we are meeting in the marketplace and the realities of what's going on in the company. So we need to begin to think about strategy in a dynamic way, not as something that's written up at one point in time and that something's wrong with you if you don't go on with that strategy for another 10 years.
+
+What we really need to think about is strategy as a system of advantage that evolves and is responsive to conditions inside and outside the firm. And so it's better to think about strategy as something that is open, it's adaptive, it's not solved and settled.
+
+You know, there is a paradox from ancient Greece that I think captures this very well. It's called the Ship of Theseus. And what happened with the Ship of Theseus is that when it came back from battle, they started replacing the planks one by one. And when one of the planks would deteriorate, they would take it out, replace it with a new one and put the old planks side by side.
+
+And then at one point in time they built a new ship with all of the old timber from the Theseus. And the question, the paradox, is: Which is the real Ship of Theseus? Is it the one on the left or is it the one on the right? And the deeper question is: At what point did that boat change? When did the Ship of Theseus become something else?
+
+And I think it's the same for a company. When is it, over time, that a strategy changes and a company's identity changes and it moves from one competitive advantage to another? And it's managing that process that is so important for the strategist.
+====
+--
+
+[NOTE]
+.Do you understand your organization's overall strategy?
+====
+* Yes 73%
+* No 12%
+* Don't know 16%
+
+51 responses
+====
+
+
+[NOTE]
+.FROM THE COLLECTION
+====
+**What Is Strategy?**
+
+Review the core elements that form a successful strategy.
+
+link:articles/96608-PDF-ENG.pdf[Read More]
+====
+
+[NOTE]
+.FROM THE COLLECTION
+====
+**Turning Great Strategy into Great Performance**
+
+Does your company need a new strategy—or just better execution? Learn how to analyze your situation and decide.
+
+link:articles/R0507E-PDF-ENG.pdf[Read More]
+====
+
+[NOTE]
+.TOOL
+====
+link:tools/strategic_planning.pdf[Strategic Planning]
+====
+
+== Why is strategy important?
+
+No matter how good you are at producing products or services, excellent execution is not enough to remain successful. Eventually, other organizations will be able to offer customers what you provide—often better or cheaper. Your organization can set itself apart from your competitors by having a sound strategy and skillfully carrying it out. Strategy provides the information that you and managers at all levels need to define your work—and help your organization continue to thrive.
+
+== Your role
+
+You may play a number of different roles in planning and executing your organization’s strategy: 
+
+* **You may be asked to analyze information that senior managers then use to develop an organization-wide strategy.** Units hold tremendous knowledge about an organization and can recommend what it should be doing and where it should be going.
+
+[sidebar]
+.EXAMPLE
+--
+The senior management team at a large enterprise software company directs the regional sales groups to gather data from customers about the new features they anticipate needing over the next two to three years.
+--
+
+* **You and your unit may create and execute action plans aligned with the organization’s strategy.** Units are the implementation centers of an organization. They have the leadership, people, skills, and money needed to put plans into action.
+
+[sidebar]
+.EXAMPLE
+--
+Senior managers identify a priority issue that focuses on developing a more efficient supply chain. They delegate this issue to appropriate units, including the Manufacturing division. Manufacturing then incorporates this priority issue into its planning.
+--
+
+* **You may initiate your own strategic planning process—without direction from senior managers—regarding unit-level priority issues.** At times, you might need to develop a strategy and plan for your unit that aligns with, but is not directly a part of, the organization’s strategy.
+
+[sidebar]
+.EXAMPLE
+--
+Your unit is losing key staff members to other companies, increasing costs and reducing productivity. You make reducing attrition in your unit a strategic priority.
+--
+
+== Creating strategy
+Strategy is usually developed through a **strategic planning process.** Strategic planning helps ensure that:
+
+* A strategy is sound
+* All units are aligned with the strategy
+* Strategy implementation is effective
+
+The result of the planning process is a strategic plan.
+
+Strategic plans vary, but they usually contain:
+
+* **Direction statement** -- a summary of the organization’s vision, mission, and values that guide the strategy
+* **Strategic objectives** -- goals and outcomes that represent achievement of a strategic vision *
+* **Priority issues** -- key issues (weaknesses to be addressed or opportunities to be seized) that the organization needs to tackle to be successful
+* **Action plans** -- specific steps the organization needs to take to accomplish its priority items and reach its objectives
+
+Your organization may use different terms for these elements of a strategic plan. However, most organizations document their strategy and, in broad terms, explain how they plan to achieve it.
+
+
+[sidebar]
+.How IBM's Vision Changed Strategy Execution
+--
+video::videos/Lesson1/video2.mp4[title=Video2,height=200]
+[%collapsible]
+.Bio
+====
+Bruce Harreld — Senior Lecturer, Harvard Business School
+
+A small shift in the focus of your business can have deep implications for how you define and execute your strategic plan.
+====
+[%collapsible]
+.About
+====
+Bruce Harreld is on the faculty at Harvard Business School, where his teaching focuses on turnarounds and executing strategy. He is the faculty chair of “Building New Businesses within Established Organizations” and a frequent speaker and writer on corporate transformation and corporate strategy.
+
+Prior to joining HBS, Bruce was Senior Vice President at IBM, where he directed IBM’s Emerging Business Opportunities program, which produced more than 20 new businesses for IBM, including multibillion-dollar businesses in Life Sciences, Linux, Pervasive Computing, and Digital Media.
+
+Preceding his work at IBM, Bruce was President of Boston Chicken, Inc., and served on the faculty of Northwestern University’s Kellogg School of Management. He also held several line management positions and served as Vice President at Kraft General Food, Inc. Bruce won the Accenture Award with Charles O’Reilly and Mike Tushman for the article “Organizational Ambidexterity: IBM and Emerging Business Opportunities.”
+
+Bruce holds an MBA degree from Harvard University and a BS in industrial engineering and operations research from Purdue University.
+====
+[%collapsible]
+.Transcript
+====
+In the mid-1990s, late 1990s, IBM was very focused on the invention of technology. In fact, its planning process started off with a five year and a 10 year outlook of what research was going to develop, and from that, it turned into what products they should manufacture, and ultimately what products they should sell and market to customers.
+
+It's actually just the reverse, in some ways, of what you might think it should be. But as we kept focusing on what was going on in the marketplace, talking to customers, looking at our competitive position, we started to realize that it wasn't all about the invention of technology. It was much more about the use of technology that was really driving our customers. And in fact, we were doing a lot of things to make the use of our technology much harder for customers, and that ended up resulting in a shift in how we viewed ourselves and what our purpose in life was.
+
+Originally, it was about the invention. Now, it's about the use. And that little shift, that one word shift, caused a significant change in what businesses we were in, what businesses we needed to get out of, caused us to think a lot about the culture and values of the organization. It became a lens through which we made a lot of decisions.
+
+For example, we ended up realizing that there were a lot of business that we had in the portfolio that anybody could do, they had commoditized—hard disk drives, PCs. We divested those. At the same time we got really focused on the use, we realized the use of the technology and the difficulty in using technology had a lot to do with our own behavior. We were, in the old days, very focused on proprietary systems, locking out our competitors. In fact, there's a lawsuit in the late '60s, early '70s around that against IBM.
+
+Well, in this new world, where it's about the use, it turns out you actually want to create open standards and you want to create protocols and hand them to your competitors so that they actually can integrate to your products and technologies easier, for the good of the customer.
+
+Secondly, it caused us to think about a whole new line of businesses. It forced us to think about services—technical services, business services—to help our customers employ, use the technology. So this little one word shift actually became the language through which, the lens through which we ended up making critical decisions. I think there's a lesson in there for a lot of organizations.
+
+I actually think this issue of a vision or a purpose of what your organization is all about is really important. Without it, you can justify everything or anything. With it, you actually know what you're all about. You can figure out what you need to get into, what you need to get out of. You can determine what types of people you need, what types of culture you need. So this vision is a really, really, really important aspect of creating a coherent focus for the organization and behaviors as you execute your strategy.
+====
+--
+
+== The strategic planning process
+
+Strategic planning involves:
+
+* Understanding what you currently do
+* Determining what you want to become
+* Planning how to get there
+
+[sidebar]
+.EXAMPLE
+--
+A technology company builds proprietary mobile apps for financial services companies. It decides that one of its top priorities is to extend its brand presence globally. The company’s strategy therefore focuses on developing a unique way to expand its business in the United States and Asia over the next three to five years.
+--
+
+
+Strategic planning is a blend of art and science. It is an art in that it requires creative thought, an ability to identify different potential outcomes, and strong communication skills to engage those who will implement it. It is also a science in that it requires managers to collect and analyze information that they can then turn into action.
+
+A typical strategic planning process looks like this:
+
+image::images/StrategyPlanningAndExecution_TheStrategicPlanningProcess_ContentImage.svg[The strategic planning process. ]
+
+Senior managers in your organization generally begin strategic planning by gathering data and researching the world in which your organization operates. They then narrow in on the top three or four priority issues that the organization needs to tackle to be successful in the long term.
+
+For each priority issue, units and teams create high-level action plans. Senior managers use these action plans to further clarify the organization’s strategic objectives. Senior managers and units go back and forth several times to examine, discuss, and refine the plan. The overall strategy then feeds into planning at different levels in the organization.
+
+[sidebar]
+.Develop a Strategy as a Team
+--
+video::videos/Lesson1/video3.mp4[title=Video3,height=200]
+[%collapsible]
+.Bio
+====
+C. Cody Phipps — President and CEO, United Stationers
+
+Involve your people in developing a team strategy. You'll build rapport and strengthen everyone's commitment to the goals you've defined together.
+====
+[%collapsible]
+.About
+====
+P.Cody Phipps is the President and CEO of United Stationers, a national wholesale distributor of office products, computer supplies, and facilities and maintenance supplies based in Deerfield, Illinois. He joined United Stationers in August 2003 as Senior Vice President of Operations, where he was responsible for all operations, inventory management, and transportation functions in the company. In addition, he provided strategic and tactical direction to ensure that all operational programs were aligned and supported the company’s strategic objectives.
+
+Prior to joining United Stationers, Cody was a Partner at McKinsey & Company in Chicago. There, he was a leader in the firm’s North American Operations Effectiveness practice and cofounded and led the Service Strategy and Operations Initiative, which focused on driving significant operational improvement in complex service and logistics environments. He also held the position of Principal with the Information Consulting Group (ICG) in Chicago and worked in marketing for IBM in Columbus, Ohio.
+
+Cody holds a BS in mechanical engineering from Ohio State University and an MBA in finance and operations from the University of Chicago Graduate School of Business.
+====
+[%collapsible]
+.Transcript
+====
+I was asked by our board of directors to develop our next-generation strategy with our senior team of about 10 or 11 people. And we didn’t have a lot of money, we couldn’t afford multimillion dollars for external consultants. I had spent 13 years at McKinsey & Company, so I was very used to developing strategies for management teams. But in this case, we really had to work together as a team and spend a lot of time together as a team. I knew we wanted it to be fact-based, so we did get analysts’ help.
+
+We spent an enormous amount of time together hashing through, thinking about, What are we really good at? What are our core values? What are the trends in the industry and the marketplace that are affecting us? And we first spent a lot of time on our core purpose, and we landed on our core purpose—enabling our partners to succeed. We’re a wholesaler. We’re in the middle, it’s very important that we establish that. And then we started to work through the strategy and what could we be good at.
+
+And I remember, there were points in time when our team was frustrated: “Oh, we’re rehashing.” And then that insight would pop out. I remember one meeting where someone said, “Well, we like our position in the middle.” And I hadn’t heard that. We’re a wholesaler, a lot of people think that’s a non-value-added role. And as we explored that “Well, why do we like our position?” someone said, “We tell the analysts that we like our position better than some of the industry leaders.” And as we worked through that and we built the facts around that, it became our strategy, which we called “winning from the middle.”
+
+And what really stood out for me though, was that the way we developed that—spending the time together as a senior team, using our own intuition, marrying that with the data and the facts, and then going through it. We built a lot of trust, a lot of rapport as a team. And what I’m seeing now is we’re executing that strategy at a much higher level because we developed that strategy together as a team. It wasn’t done for us.
+====
+--
+
+[NOTE]
+.Podcast
+====
+audio::podcasts/20190611102153-096_CanKhanAcademyScaletoEducateAnyoneAnywhere_.mp3[title=Can Khan Academy Scale to Educate Anyone, Anywhere?]
+Bill Sahlman,Brian Kenny
+====
+
+
+<!-- docend -->
+
+
+<script src="../asciidoctor.js.dist/browser/asciidoctor.js" charset="utf-8"></script>
+<script>var stylesheet="../asciidoctor.js.dist/css/asciidoctor-classic.css"</script>
+<script src="../common-doc/js/doc.js"></script>
+
+
