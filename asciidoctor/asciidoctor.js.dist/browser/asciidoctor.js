@@ -38981,6 +38981,7 @@ Opal.modules["asciidoctor/converter/html5"] = function(Opal) {
               prefix = nil;
             };
             if (key=="set"){
+              console.log("set is defined")
               if ($truthy(node['$attr?'](key))) {
               return (class_attr_val = "fa" + (node.$attr(key)) + " " + (class_attr_val) )
             } else {
