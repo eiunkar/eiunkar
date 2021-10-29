@@ -568,6 +568,12 @@ div#collection .icon-note:before{
   font-size: 36px;
 }
 
+div#question .icon-note:before{
+  content:"\f128";
+  font-size: 36px;
+}
+
+
 .icon-tip:before{
   content:"\f0eb";
   font-size: 36px;
