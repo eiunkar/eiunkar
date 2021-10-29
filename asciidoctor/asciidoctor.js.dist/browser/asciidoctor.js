@@ -38970,11 +38970,8 @@ Opal.modules["asciidoctor/converter/html5"] = function(Opal) {
 
         
         if ($truthy((($a = (type = ($truthy($b = node.$type()) ? $b : "image"))['$==']("icon")) ? node.$document()['$attr?']("icons", "font") : (type = ($truthy($b = node.$type()) ? $b : "image"))['$==']("icon")))) {
-          
-          class_attr_val = "" + "fa fa-" + (node.$target());
-          $send($hash2(["size", "rotate", "flip"], {"size": "fa-", "rotate": "fa-rotate-", "flip": "fa-flip-"}), 'each', [], ($$55 = function(key, prefix){var self = $$55.$$s || this;
-
-          
+          class_attr_val = "" + "fa-" + (node.$target());
+          $send($hash2(["size", "rotate", "flip", "set"], {"set":"fa" ,"size": "fa-", "rotate": "fa-rotate-", "flip": "fa-flip-"}), 'each', [], ($$55 = function(key, prefix){var self = $$55.$$s || this;
             
             if (key == null) {
               key = nil;
@@ -38983,11 +38980,23 @@ Opal.modules["asciidoctor/converter/html5"] = function(Opal) {
             if (prefix == null) {
               prefix = nil;
             };
+            if (key=="set"){
+              if ($truthy(node['$attr?'](key))) {
+              return (class_attr_val = "fa" + (node.$attr(key)) + " " + (class_attr_val) )
+            } else {
+              return (class_attr_val = "fa " + (class_attr_val) )
+            }
+
+            }else {
+
             if ($truthy(node['$attr?'](key))) {
               return (class_attr_val = "" + (class_attr_val) + " " + (prefix) + (node.$attr(key)))
             } else {
               return nil
-            };}, $$55.$$s = self, $$55.$$arity = 2, $$55));
+            }}
+            ;}, $$55.$$s = self, $$55.$$arity = 2, $$55));
+
+
           title_attr = (function() {if ($truthy(node['$attr?']("title"))) {
             return "" + " title=\"" + (node.$attr("title")) + "\""
           } else {
