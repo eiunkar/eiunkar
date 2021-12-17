@@ -573,6 +573,10 @@ div#question .icon-note:before{
   font-size: 36px;
 }
 
+div#edit .icon-note:before{
+  content:"\f044";
+  font-size: 36px;
+}
 
 .icon-tip:before{
   content:"\f0eb";
