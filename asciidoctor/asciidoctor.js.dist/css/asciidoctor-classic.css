@@ -579,6 +579,41 @@ div#edit .icon-note:before{
   font-size: 36px;
 }
 
+details#optionAwithhidden ::marker{
+  content:"\24b6";
+  font-size: 24px;
+}
+
+details#optionBwithhidden ::marker{
+  content:"\24b7";
+  font-size: 24px;
+}
+
+details#optionCwithhidden ::marker{
+  content:"\24b8";
+  font-size: 24px;
+}
+
+details#optionDwithhidden ::marker{
+  content:"\24b9";
+  font-size: 24px;
+}
+
+details#optionEwithhidden ::marker{
+  content:"\24ba";
+  font-size: 24px;
+}
+
+details#optionFwithhidden ::marker{
+  content:"\24bb";
+  font-size: 24px;
+}
+
+details#optionGwithhidden ::marker{
+  content:"\24bc";
+  font-size: 24px;
+}
+
 .icon-tip:before{
   content:"\f0eb";
   font-size: 36px;
@@ -598,6 +633,8 @@ div#edit .icon-note:before{
   content:"\f0c8";
   font-size: 36px;
 }
+
+
 
 div.admonitionblock.important {
   background: #e1f5ff;
